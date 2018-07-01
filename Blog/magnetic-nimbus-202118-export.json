@@ -1,0 +1,297 @@
+{
+  "Categorie" : {
+    "01" : {
+      "Image" : "http://i.f1g.fr/media/ext/1900x1900/madame.lefigaro.fr/sites/default/files/img/2016/08/regime-photo-14.jpg",
+      "Name" : "Végétarien"
+    },
+    "02" : {
+      "Image" : "http://auregime.fr/wp-content/uploads/2016/08/cuisine-asiatique-513x510.jpg",
+      "Name" : "Asiatique"
+    },
+    "03" : {
+      "Image" : "http://afrodelice.com/wp-content/uploads/2014/11/Tchep.jpg",
+      "Name" : "Plat Sénégalais"
+    },
+    "04" : {
+      "Image" : "https://media-cdn.tripadvisor.com/media/photo-s/0c/b6/57/fe/un-burger-150g-frites.jpg",
+      "Name" : "Fast Food"
+    },
+    "05" : {
+      "Image" : "http://www.aupaindemongrandpere.com/wp-content/uploads/2014/02/croissants.jpg",
+      "Name" : "Viennoiserie"
+    },
+    "06" : {
+      "Image" : "https://cdn.gobankingrates.com/wp-content/uploads/2017/06/0_main_friedchickenday_fierman_much_shutterstock_368008064-1.jpg",
+      "Name" : "Fried Chicken"
+    },
+    "07" : {
+      "Image" : "https://i.pinimg.com/236x/2e/b7/83/2eb783f372814d4d8b9a34f562970a2c--ivory-coast-ivoire.jpg",
+      "Name" : "Dibiterie"
+    }
+  },
+  "Foods" : {
+    "01" : {
+      "Categorie" : {
+        "01" : {
+          "Image" : "http://i.f1g.fr/media/ext/1900x1900/madame.lefigaro.fr/sites/default/files/img/2016/08/regime-photo-14.jpg",
+          "Name" : "Végétarien"
+        },
+        "02" : {
+          "Image" : "http://auregime.fr/wp-content/uploads/2016/08/cuisine-asiatique-513x510.jpg",
+          "Name" : "Asiatique"
+        },
+        "03" : {
+          "Image" : "http://afrodelice.com/wp-content/uploads/2014/11/Tchep.jpg",
+          "Name" : "Plat Sénégalais"
+        },
+        "04" : {
+          "Image" : "https://media-cdn.tripadvisor.com/media/photo-s/0c/b6/57/fe/un-burger-150g-frites.jpg",
+          "Name" : "Fast Food"
+        },
+        "05" : {
+          "Image" : "http://www.aupaindemongrandpere.com/wp-content/uploads/2014/02/croissants.jpg",
+          "Name" : "Viennoiserie"
+        },
+        "06" : {
+          "Image" : "https://cdn.gobankingrates.com/wp-content/uploads/2017/06/0_main_friedchickenday_fierman_much_shutterstock_368008064-1.jpg",
+          "Name" : "Fried Chicken"
+        },
+        "07" : {
+          "Image" : "https://i.pinimg.com/236x/2e/b7/83/2eb783f372814d4d8b9a34f562970a2c--ivory-coast-ivoire.jpg",
+          "Name" : "Dibiterie"
+        }
+      },
+      "Foods" : {
+        "01" : {
+          "Description" : "Dans cette recette veggie par Akrame Benallal, les légumes se mélangent harmonieusement au fromage râpé. Un délice.",
+          "Image" : "http://i.f1g.fr/media/ext/1900x800_crop/madame.lefigaro.fr/sites/default/files/img/2018/01/spaghetti-de-legumes.jpg",
+          "MenuId" : "01",
+          "Name" : "Spaghettis de légumes à la bolognaise",
+          "Prix" : "2500",
+          "Remise" : "0"
+        },
+        "02" : {
+          "Description" : "",
+          "Image" : "http://static.750g.com/images/622-auto/4133b19abe72214a94b66780b61f3973/327789.jpg",
+          "MenuId" : "01",
+          "Name" : "CARBONARA VÉGÉTARIENNE",
+          "Prix" : "2500",
+          "Remise" : "0"
+        },
+        "03" : {
+          "Description" : "\"Un plat complet végétarien plein de saveurs.",
+          "Image" : "http://static.750g.com/images/622-auto/3b45c8be63762a49fdc222c086c89144/319717.jpg",
+          "MenuId" : "01",
+          "Name" : "NOUILLES SAUTÉES AUX LÉGUMES ET AU TOFU FUMÉ",
+          "Prix" : "3000",
+          "Remise" : "0"
+        },
+        "04" : {
+          "Description" : "Une salade de carottes aux saveurs d'orient, un delice pour les papilles.",
+          "Image" : "http://static.750g.com/images/auto-525/8ed8666e90162a778d03d3f54a5a667d/carottes-a-l-oriental.jpg",
+          "MenuId" : "01",
+          "Name" : "CAROTTES À L'ORIENTAL",
+          "Prix" : "3000",
+          "Remise" : "0"
+        },
+        "05" : {
+          "Description" : "Salé oeuf frit crabes traditionnel",
+          "Image" : "https://previews.123rf.com/images/kgtoh/kgtoh0710/kgtoh071000233/1894674-sal%C3%A9-oeuf-frit-crabes-traditionnel-restaurant-de-cuisine-asiatique-mise-.jpg",
+          "MenuId" : "02",
+          "Name" : "Salé oeuf frit crabes traditionnel",
+          "Prix" : "4000",
+          "Remise" : "0"
+        },
+        "06" : {
+          "Description" : "De la pure nourriture chinoise",
+          "Image" : "https://previews.123rf.com/images/cokemomo/cokemomo1611/cokemomo161100057/66029743-shanghai-frit-mein-nouilles-chow-shanghai-la-nourriture-chinoise.jpg",
+          "MenuId" : "02",
+          "Name" : "Shanghai frit mein nouilles chow Shanghai",
+          "Prix" : "4500",
+          "Remise" : "0"
+        },
+        "07" : {
+          "Description" : "Nourriture Thailandaise",
+          "Image" : "https://previews.123rf.com/images/yaii1254/yaii12541104/yaii1254110400084/9338784-curry-de-poulet-tha%C3%AFlandais.jpg",
+          "MenuId" : "02",
+          "Name" : "Curry de poulet thaïlandais",
+          "Prix" : "4500",
+          "Remise" : "0"
+        },
+        "08" : {
+          "Description" : "Sushi",
+          "Image" : "https://previews.123rf.com/images/givaga/givaga1512/givaga151200027/50375559-sushi-et-rouleaux-de-plaque-sur-un-fond-noir.jpg",
+          "MenuId" : "02",
+          "Name" : "Sushi et rouleaux de plaque",
+          "Prix" : "5000",
+          "Remise" : "0"
+        },
+        "09" : {
+          "Description" : "Ce repas inspiré thai est parfait pour un déjeuner rapide ou servi comme plat d'accompagnement.",
+          "Image" : "https://previews.123rf.com/images/lounom/lounom1603/lounom160300042/53301985-basil-poulet-frit-riz-avec-des-baguettes-sur-un-fond-en-bois-blanc-vue-de-dessus-ce-repas-inspir%C3%A9-thai.jpg",
+          "MenuId" : "02",
+          "Name" : "Basil poulet frit riz",
+          "Prix" : "3500",
+          "Remise" : "0"
+        },
+        "11" : {
+          "Description" : "Du riz au poisson",
+          "Image" : "http://img.over-blog-kiwi.com/2/11/28/40/20160909/ob_584e3d_thiepkhonk-660x400.jpg",
+          "MenuId" : "03",
+          "Name" : "Thiebou Dieun rouge",
+          "Prix" : "2000",
+          "Remise" : "0"
+        },
+        "12" : {
+          "Description" : "Riz au poisson blanc",
+          "Image" : "http://www.alicepegie.com/fr/wp-content/uploads/2012/10/Le-THIEBOU-DIEN-riz-au-poisson-recette-s%C3%A9n%C3%A9galaise-15-618x412.jpg",
+          "MenuId" : "03",
+          "Name" : "Thiebou Dieun blanc",
+          "Prix" : "2000",
+          "Remise" : "0"
+        },
+        "13" : {
+          "Description" : "Riz à la viande",
+          "Image" : "https://aistoucuisine.com/wp-content/uploads/2017/10/thiep.jpg",
+          "MenuId" : "03",
+          "Name" : "Thiebou yapp",
+          "Prix" : "2000",
+          "Remise" : "0"
+        },
+        "14" : {
+          "Description" : "La Paella",
+          "Image" : "https://i.ytimg.com/vi/QE_sCIJ8qzQ/maxresdefault.jpg",
+          "MenuId" : "03",
+          "Name" : "Paella",
+          "Prix" : "2500",
+          "Remise" : "0"
+        },
+        "15" : {
+          "Description" : "Hamburger steak avec fromage",
+          "Image" : "http://bk-ca-prd.s3.amazonaws.com/sites/burgerking.ca/files/02280-10-BBQBaconWhopper_300x270_CR.jpg",
+          "MenuId" : "04",
+          "Name" : "Burger",
+          "Prix" : "1500",
+          "Remise" : "0"
+        },
+        "16" : {
+          "Description" : "Chawarma Viande avec legumes",
+          "Image" : "http://resto-rapide.com/214/chawarma-viande.jpg",
+          "MenuId" : "04",
+          "Name" : "Chawarma",
+          "Prix" : "1300",
+          "Remise" : "0"
+        },
+        "17" : {
+          "Description" : "Hot Dog",
+          "Image" : "https://foremangrillrecipes.com/wp-content/uploads/2013/05/featured-Foreman-Grill-Hot-Dogs.jpg",
+          "MenuId" : "04",
+          "Name" : "Hot Dog",
+          "Prix" : "1200",
+          "Remise" : "0"
+        },
+        "18" : {
+          "Description" : "Pizza garnie à la saucisse piquante",
+          "Image" : "https://www.metro.ca/userfiles/image/recipes/pizza-saucisse-piquante-2301.jpg",
+          "MenuId" : "04",
+          "Name" : "Pizza",
+          "Prix" : "3000",
+          "Remise" : "0"
+        },
+        "19" : {
+          "Description" : "Cheese Burger",
+          "Image" : "https://mcdonalds.com.au/sites/mcdonalds.com.au/files/Product_thumb_Cheeseburger-Triple_0.png",
+          "MenuId" : "04",
+          "Name" : "Cheese Burger",
+          "Prix" : "1200",
+          "Remise" : "0"
+        },
+        "20" : {
+          "Description" : "Fataya Complet avec fromage",
+          "Image" : "http://jongoma.net/wp-content/uploads/2015/11/image50.jpg",
+          "MenuId" : "04",
+          "Name" : "Fataya Complet",
+          "Prix" : "1000",
+          "Remise" : "0"
+        },
+        "21" : {
+          "Description" : "Variété de viennoiserie 15 pièces",
+          "Image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Nvn1v8MbzRCIYsGYOWnv3T78LerYH38nWfz4UqlgYAD4FW1xHg",
+          "MenuId" : "05",
+          "Name" : "Pack Viennoiserier",
+          "Prix" : "4000",
+          "Remise" : "0"
+        }
+      },
+      "User" : {
+        "774652830" : {
+          "Name" : "Ibrahima",
+          "Password" : "12345"
+        },
+        "776506601" : {
+          "Name" : "Ndeye",
+          "Password" : "1234"
+        }
+      }
+    },
+    "02" : {
+      "Image" : "http://static.750g.com/images/622-auto/4133b19abe72214a94b66780b61f3973/327789.jpg",
+      "MenuId" : "01",
+      "Nom" : "CARBONARA VÉGÉTARIENNE",
+      "Prix" : "2500",
+      "Remise" : "0"
+    },
+    "03" : {
+      "Description" : "Un plat complet végétarien plein de saveurs.",
+      "Image" : "http://static.750g.com/images/622-auto/3b45c8be63762a49fdc222c086c89144/319717.jpg",
+      "MenuId" : "01",
+      "Nom" : "NOUILLES SAUTÉES AUX LÉGUMES ET AU TOFU FUMÉ",
+      "Prix" : "3000",
+      "Remise" : "0"
+    },
+    "04" : {
+      "Description" : "",
+      "Image" : "",
+      "MenuId" : "",
+      "Nom" : "Curry Végétarien",
+      "Prix" : "",
+      "Remise" : ""
+    },
+    "05" : {
+      "Description" : "Une salade de carottes aux saveurs d'orient, un delice pour les papilles.",
+      "Image" : "http://static.750g.com/images/auto-525/8ed8666e90162a778d03d3f54a5a667d/carottes-a-l-oriental.jpg",
+      "MenuId" : "01",
+      "Nom" : "CAROTTES À L'ORIENTAL",
+      "Prix" : "2000",
+      "Remise" : "0"
+    }
+  },
+  "User" : {
+    "774478406" : {
+      "name" : "Alioune",
+      "password" : "1234"
+    },
+    "774652830" : {
+      "Name" : "Ibrahima",
+      "Password" : "12345"
+    },
+    "775763100" : {
+      "name" : "badou",
+      "password" : "12345"
+    },
+    "776506601" : {
+      "Name" : "Ndeye",
+      "Password" : "1234"
+    }
+  },
+  "Post": {
+      "email": "",
+      "title": "",
+      "description": "",
+      "date": "",
+      "votePositif": "",
+      "voteNegatif": ""
+
+  }
+
+}
